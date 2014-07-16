@@ -17,8 +17,8 @@
  * limitations under the License.
  * ========================================================== */
 
- //= require markdown
- //= require to-markdown
+//= require markdown
+//= require to-markdown
 
 !function ($) {
 
