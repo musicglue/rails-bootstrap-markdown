@@ -17,6 +17,9 @@
  * limitations under the License.
  * ========================================================== */
 
+ //= require markdown
+ //= require to-markdown
+
 !function ($) {
 
   "use strict"; // jshint ;_;
